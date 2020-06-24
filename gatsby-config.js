@@ -12,7 +12,7 @@ module.exports = {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
         /*id: 'GTM-add_your_tag_here',*/
-        // id: '455445',
+         id: 'UA-170666174-1',
         includeInDevelopment: false
       }
     },
