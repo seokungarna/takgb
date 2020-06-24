@@ -21,5 +21,5 @@ Vi är takläggarna som arbetar i Göteborg med omnejd. Vi arbetar med alla olik
 
 När vi lägger ditt nya tak tänker vi på allt och ser till att undertaket läggs på korrekt sätt så att ni inte får problem med fukt på insidan av taket. Vi är också noggranna med isoleringen av taket så att värmen stannar kvar i huset och din värmekostnad blir mindre.
 
-Är du intresserad av ett nytt tak kontakta oss här via [formuläret](/offert) så återkommer vi inom kort. Vi erbjuder en kostnadsfri besiktning och hembesök där vi kan diskuterar ett eventuellt takbyte och inspektera ert hus. 
+Är du intresserad av ett nytt tak kontakta oss här via [formuläret](/besiktning) så återkommer vi inom kort. Vi erbjuder en kostnadsfri besiktning och hembesök där vi kan diskuterar ett eventuellt takbyte och inspektera ert hus. 
 
