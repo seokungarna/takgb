@@ -2,7 +2,7 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'takläggarnagöteborg.nu',
+    title: 'Takläggaregöteborg.nu',
     siteUrl: 'https://xn--taklggarnagteborg-tqb36a.nu'
   },
   plugins: [
@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'takläggarnagöteborg.nu',
-        short_name: 'takläggarnagöteborg.nu',
+        name: 'Takläggaregöteborg.nu',
+        short_name: 'Takläggaregöteborg.nu',
         start_url: '/',
         background_color: '#e24f11',
         theme_color: '#e24f11',
